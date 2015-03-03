@@ -108,7 +108,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35000001"
      inkscape:cx="499.89839"
-     inkscape:cy="906.3907"
+     inkscape:cy="677.81928"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -129,7 +129,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -152,7 +152,11 @@
      id="layer2"
      inkscape:label="Vector">
     <g
-       id="g3316">
+       id="g3316"
+       transform="matrix(1.0046566,0,0,1.0046566,1.6963179,-3.7809403)"
+       inkscape:export-filename="/Users/auroranou/WDI/SVG/laptop.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
